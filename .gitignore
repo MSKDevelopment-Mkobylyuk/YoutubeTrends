@@ -14,3 +14,5 @@ nenv/
 # Ignore Python cache
 __pycache__/
 *.pyc
+
+git-filter-repo/
