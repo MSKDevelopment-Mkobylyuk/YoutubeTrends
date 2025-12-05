@@ -1,0 +1,16 @@
+# Ignore all raw data files
+data/raw/*
+
+# Ignore processed data files
+data/processed/*
+
+# Ignore Python environment folders
+venv/
+nenv/
+
+# Ignore OS files
+*.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
